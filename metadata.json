@@ -1,0 +1,7 @@
+{
+  "name": "Smart IT Self-Service Hub",
+  "description": "An intelligent internal IT support portal designed to reduce repetitive queries through a structured decision tree and AI-powered troubleshooting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
